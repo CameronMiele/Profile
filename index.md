@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+**Profile**
 
-You can use the [editor on GitHub](https://github.com/CameronMiele/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Cameron Miele and I am a freshman Software Engineering major at the Rochester Institute of Technology. I previously attended Nashua High School South in Nashua, New Hampshire. My hobbies include playing videogames, sleeping, and hanging out with my friends. I also love watching sports, especially football. I can juggle, touch my toungue to my nose, and I can name every state's zip code. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Things I Would Like to Learn**
 
-### Markdown
+-The proper way to develope a software product
+-Networking with companies and possible employers
+-Proper business etiquette
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Website**
+http://www.se.rit.edu/~swen-101/00/index.htmlv
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CameronMiele/Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
